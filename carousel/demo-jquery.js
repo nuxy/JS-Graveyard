@@ -1,7 +1,7 @@
 /**
  *  Carousel (jQuery)
  *
- *  Copyright 2011-2012, Marc S. Brooks (http://mbrooks.info)
+ *  Copyright 2011-2012, Marc S. Brooks (https://mbrooks.info)
  *  Licensed under the MIT license:
  *  http://www.opensource.org/licenses/mit-license.php
  *
