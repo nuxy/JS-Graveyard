@@ -1,0 +1,4 @@
+Internet Explorer (all versions)
+
+* Images larger than 50px square 'tear' at fast speeds.
+* Images skip at slow speeds.  Animation not consistent.
